@@ -1,6 +1,6 @@
 name,age,city,score
 Alice,25,New York,85
-Bob,,London,92
+Bob,N/A,London,92
 Charlie,28,Paris,78
 David,22,Seoul,95
-Eve,27,,88
+Eve,27,Unknown,88
